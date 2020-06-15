@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Подписка</string>
+    <string name="nameLabel">Имя пользователя</string>
+    <string name="nameInput">Name</string>
+    <string name="emailLabel">Электронная почта</string>
+    <string name="okButton">OK</string>
+    <string name="clearButton">Clear</string>
+    <string name="textOut"> </string>
+    <string name="emailInput">Email</string>
+
+</resources>
